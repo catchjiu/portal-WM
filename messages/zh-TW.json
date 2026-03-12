@@ -1,0 +1,58 @@
+{
+  "app": {
+    "name": "CATCH 柔術",
+    "tagline": "會員入口"
+  },
+  "nav": {
+    "dashboard": "首頁",
+    "schedule": "課表",
+    "shop": "商城",
+    "payments": "付款",
+    "admin": "管理後台"
+  },
+  "dashboard": {
+    "title": "更聰明地訓練，隨時掌握進度。",
+    "qrTitle": "報到 QR",
+    "familyLabel": "家庭成員",
+    "progressTitle": "上課時數進度",
+    "nextBookingTitle": "下一堂課",
+    "cancelBooking": "取消預約",
+    "noBooking": "目前沒有即將到來的預約。",
+    "monthlyGoal": "每月目標",
+    "yearlyGoal": "年度進度"
+  },
+  "schedule": {
+    "title": "本週課表",
+    "book": "預約",
+    "cancel": "取消",
+    "checkedIn": "已報到",
+    "alreadyBooked": "已預約",
+    "blocked": "不可預約"
+  },
+  "shop": {
+    "title": "道館商城",
+    "preorder": "預購",
+    "quickBuy": "快速購買",
+    "preorderMessage": "此商品為預購商品，約需 4 週到貨。"
+  },
+  "payments": {
+    "title": "付款",
+    "uploadProof": "上傳轉帳證明",
+    "pending": "等待審核"
+  },
+  "kiosk": {
+    "title": "報到櫃台",
+    "scanPrompt": "掃描會員 QR 或觸發會員報到。",
+    "welcome": "歡迎"
+  },
+  "admin": {
+    "title": "後台總覽",
+    "members": "會員",
+    "payments": "付款審核",
+    "expiring": "即將到期會員"
+  },
+  "line": {
+    "statusLinked": "LINE 帳號已連結",
+    "statusFallback": "一般瀏覽器模式"
+  }
+}

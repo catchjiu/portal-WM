@@ -1,0 +1,58 @@
+{
+  "app": {
+    "name": "CATCH JIU JITSU",
+    "tagline": "Member Portal"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "schedule": "Schedule",
+    "shop": "Shop",
+    "payments": "Payments",
+    "admin": "Admin"
+  },
+  "dashboard": {
+    "title": "Train smarter. Stay connected.",
+    "qrTitle": "Kiosk QR",
+    "familyLabel": "Family profile",
+    "progressTitle": "Mat hour progress",
+    "nextBookingTitle": "Next booking",
+    "cancelBooking": "Cancel booking",
+    "noBooking": "No upcoming bookings yet.",
+    "monthlyGoal": "Monthly goal",
+    "yearlyGoal": "Yearly progress"
+  },
+  "schedule": {
+    "title": "Weekly schedule",
+    "book": "Book",
+    "cancel": "Cancel",
+    "checkedIn": "Checked in",
+    "alreadyBooked": "Already booked",
+    "blocked": "Not eligible"
+  },
+  "shop": {
+    "title": "Gym shop",
+    "preorder": "Preorder",
+    "quickBuy": "Quick buy",
+    "preorderMessage": "This item is a preorder. Approx. 4 weeks lead time."
+  },
+  "payments": {
+    "title": "Payments",
+    "uploadProof": "Upload proof of transfer",
+    "pending": "Pending review"
+  },
+  "kiosk": {
+    "title": "Kiosk check-in",
+    "scanPrompt": "Scan a member QR or trigger a profile check-in.",
+    "welcome": "Welcome"
+  },
+  "admin": {
+    "title": "Admin overview",
+    "members": "Members",
+    "payments": "Payments",
+    "expiring": "Expiring memberships"
+  },
+  "line": {
+    "statusLinked": "LINE account linked",
+    "statusFallback": "Browser fallback mode"
+  }
+}
