@@ -33,7 +33,15 @@
     "title": "Gym shop",
     "preorder": "Preorder",
     "quickBuy": "Quick buy",
-    "preorderMessage": "This item is a preorder. Approx. 4 weeks lead time."
+    "preorderMessage": "This item is a preorder. Approx. 4 weeks lead time.",
+    "viewDetails": "View details",
+    "backToShop": "Back to shop",
+    "selectColor": "Select color",
+    "selectSize": "Select size",
+    "addToCart": "Add to cart",
+    "madeToOrder": "Made to order",
+    "stock": "Stock",
+    "price": "Price"
   },
   "payments": {
     "title": "Payments",

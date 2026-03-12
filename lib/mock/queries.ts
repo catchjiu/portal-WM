@@ -65,6 +65,10 @@ export function getShopCatalog(locale: Locale) {
   }));
 }
 
+export function getShopProduct(productId: string) {
+  return products.find((product) => product.id === productId) ?? null;
+}
+
 export function getPackageForProfile(profileId = currentUserId) {
   const profile = getProfileById(profileId);
   if (!profile) {

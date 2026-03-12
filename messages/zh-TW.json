@@ -33,7 +33,15 @@
     "title": "道館商城",
     "preorder": "預購",
     "quickBuy": "快速購買",
-    "preorderMessage": "此商品為預購商品，約需 4 週到貨。"
+    "preorderMessage": "此商品為預購商品，約需 4 週到貨。",
+    "viewDetails": "查看詳情",
+    "backToShop": "返回商城",
+    "selectColor": "選擇顏色",
+    "selectSize": "選擇尺寸",
+    "addToCart": "加入購物車",
+    "madeToOrder": "接單製作",
+    "stock": "庫存",
+    "price": "價格"
   },
   "payments": {
     "title": "付款",

@@ -72,10 +72,20 @@ export interface Product {
   id: string;
   nameEn: string;
   nameZh: string;
+  descriptionEn: string;
+  descriptionZh: string;
   priceTwd: number;
   isPreorder: boolean;
   stockQuantity: number;
   category: "Apparel" | "Equipment" | "Accessories";
+  sizes: string[];
+  colors: Array<{
+    id: string;
+    nameEn: string;
+    nameZh: string;
+    swatch: string;
+    imageUrl: string;
+  }>;
 }
 
 export interface Order {
